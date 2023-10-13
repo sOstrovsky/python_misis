@@ -32,7 +32,6 @@ from hw3.task7 import print_result
 from hw3.task8 import print_result
 from hw3.task9 import print_result
 from hw3.task10 import print_result
-from hw2.task2 import print_result
 
 if __name__ == '__main__':
     print_result()
